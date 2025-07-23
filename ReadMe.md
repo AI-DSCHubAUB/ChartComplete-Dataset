@@ -1,7 +1,5 @@
 # ChartComplete 
-chartComplete is an iage dataset of 30 different chart types.
-Each chart type onsists of 50 images. 
-The dataset is build based on a chart taxonomy. 
+ChartComplete is an image dataset comprising 30 distinct chart types, with 50 images per type. It is constructed based on a comprehensive chart taxonomy and is licensed under the Creative Commons BY (CC BY) license.
 
 ![]()
 
